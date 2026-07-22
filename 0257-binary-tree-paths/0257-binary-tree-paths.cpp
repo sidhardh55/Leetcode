@@ -16,17 +16,14 @@ public:
         if(root==NULL){
             return;
         }
-
-
-
-        st += to_string(root->val);
+        st += to_string(root->val)+"->";
 
         if(!root->left && !root->right){
+              st.pop_back();
+              st.pop_back();
               vecstr.push_back(st);
         }
-        if(root->left || root->right){
-            st+="->";
-        }
+
 
         helper(root->left,st,vecstr);
         helper(root->right,st,vecstr);
