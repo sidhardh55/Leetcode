@@ -24,7 +24,7 @@ public:
             if(root == NULL){
                 return;
             }
-            vec[(root->val)-1]++;
+            vec[root->val]++;
            
             if(!root->left && !root->right){
                if(palindromic(vec)){
@@ -39,7 +39,7 @@ public:
 
     int pseudoPalindromicPaths (TreeNode* root) {
         int count = 0;
-        vector<int> vec(9,0);
+        vector<int> vec(10,0);
         helper(root,vec,count);
         return count;
     }
