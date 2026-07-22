@@ -20,7 +20,7 @@ public:
         }
         return odd<=1;
     }
-    void helper(TreeNode * root, vector<int> vec,int &count){
+    void helper(TreeNode * root, vector<int> &vec,int &count){
             if(root == NULL){
                 return;
             }
@@ -34,7 +34,7 @@ public:
 
             helper(root->left,vec,count);
             helper(root->right,vec,count);
-
+            vec[root->val]--;  
     }
 
     int pseudoPalindromicPaths (TreeNode* root) {
