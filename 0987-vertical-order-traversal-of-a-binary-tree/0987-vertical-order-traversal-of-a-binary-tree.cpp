@@ -10,50 +10,37 @@
  * };
  */
 class Solution {
+    map<int,map<int,multiset<int>>> values;
 public:
-    void helper(TreeNode* root,
-                unordered_map<int, vector<pair<int,int>>>& hm,
-                int row,
-                int col,
-                int &minCol,
-                int &maxCol) {
+    void helper(TreeNode* root,int row,int col  ) {
 
         if (root == NULL)
             return;
 
-        minCol = min(minCol, col);
-        maxCol = max(maxCol, col);
+        values[col][row].insert(root->val);
 
-        hm[col].push_back({row, root->val});
+        
 
-        helper(root->left, hm, row + 1, col - 1, minCol, maxCol);
-        helper(root->right, hm, row + 1, col + 1, minCol, maxCol);
+        helper(root->left,row + 1, col - 1);
+        helper(root->right, row + 1, col + 1);
     }
 
     vector<vector<int>> verticalTraversal(TreeNode* root) {
 
-        unordered_map<int, vector<pair<int,int>>> hm;
-
-        int minCol = INT_MAX;
-        int maxCol = INT_MIN;
-
-        helper(root, hm, 0, 0, minCol, maxCol);
+        helper(root, 0, 0);
 
         vector<vector<int>> ans;
 
-        for (int i = minCol; i <= maxCol; i++) {
+        for (auto &col :values) {
 
-            vector<pair<int,int>> vec = hm[i];
+            vector<int> vec;
 
-            sort(vec.begin(), vec.end());
 
-            vector<int> temp;
-
-            for (auto &p : vec) {
-                temp.push_back(p.second);
+            for (auto &row : col.second) {
+                vec.insert(vec.end(),row.second.begin(),row.second.end());
             }
 
-            ans.push_back(temp);
+            ans.push_back(vec);
         }
 
         return ans;
