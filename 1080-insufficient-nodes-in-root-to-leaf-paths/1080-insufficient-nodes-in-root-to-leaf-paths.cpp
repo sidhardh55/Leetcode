@@ -12,7 +12,7 @@
 class Solution {
 public:
     TreeNode* dfs(TreeNode *root,int limit,int sum){
-        if(root == NULL) return NULL;
+       
         sum = sum + root->val;
         if(!root->left && !root->right){
             if(limit>sum){
