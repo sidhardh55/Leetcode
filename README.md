@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/sidhardh55/Leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sidhardh55/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/sidhardh55/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/sidhardh55/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sidhardh55/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sidhardh55/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sidhardh55/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/sidhardh55/Leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sidhardh55/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/sidhardh55/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/sidhardh55/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sidhardh55/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sidhardh55/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sidhardh55/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/sidhardh55/Leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sidhardh55/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/sidhardh55/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/sidhardh55/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sidhardh55/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sidhardh55/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sidhardh55/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/sidhardh55/Leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sidhardh55/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sidhardh55/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/sidhardh55/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sidhardh55/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/sidhardh55/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/sidhardh55/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
