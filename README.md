@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sidhardh55/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/sidhardh55/Leetcode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/sidhardh55/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/sidhardh55/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sidhardh55/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/sidhardh55/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sidhardh55/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/sidhardh55/Leetcode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/sidhardh55/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/sidhardh55/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sidhardh55/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/sidhardh55/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sidhardh55/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0187-repeated-dna-sequences](https://github.com/sidhardh55/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sidhardh55/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/sidhardh55/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sidhardh55/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/sidhardh55/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sidhardh55/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sidhardh55/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sidhardh55/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/sidhardh55/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3731-find-missing-elements](https://github.com/sidhardh55/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
