@@ -15,24 +15,23 @@ public:
         TreeNode* newNode = new TreeNode(val);
         if(root == NULL) return newNode;
         TreeNode* temp = root;
-        TreeNode* insertl = NULL;
-        TreeNode* insertr = NULL;
+        TreeNode* insert = NULL;
         int l=0;
         while(temp!=NULL){
             if(temp->val > val){
-                insertl = temp;
+                insert = temp;
                 temp = temp->left;
                 l=0;
             }else{
-                insertr = temp;
+                insert = temp;
                 temp = temp->right;
                 l=1;
             }
         }
         if(l==0){
-            insertl->left = newNode;
+            insert->left = newNode;
         }else{
-            insertr->right = newNode;
+            insert->right = newNode;
         }
         return root;
     }
