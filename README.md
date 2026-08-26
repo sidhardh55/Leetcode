@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sidhardh55/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sidhardh55/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sidhardh55/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidhardh55/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/sidhardh55/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sidhardh55/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sidhardh55/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidhardh55/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/sidhardh55/Leetcode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/sidhardh55/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sidhardh55/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/sidhardh55/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sidhardh55/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sidhardh55/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidhardh55/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/sidhardh55/Leetcode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/sidhardh55/Leetcode/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sidhardh55/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sidhardh55/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sidhardh55/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sidhardh55/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidhardh55/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sidhardh55/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sidhardh55/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3731-find-missing-elements](https://github.com/sidhardh55/Leetcode/tree/master/3731-find-missing-elements) |
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sidhardh55/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sidhardh55/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sidhardh55/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidhardh55/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -225,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sidhardh55/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidhardh55/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
