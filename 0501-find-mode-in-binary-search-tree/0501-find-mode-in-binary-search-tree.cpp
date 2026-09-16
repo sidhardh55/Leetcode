@@ -11,29 +11,38 @@
  */
 class Solution {
 public:
-    void dfs(unordered_map<int,int> &hm,TreeNode* root){
+    vector<int> res;
+    int curCount=0;
+    int maxCount=0;
+    bool first=true;
+    int prev=0;
+    void inorder(TreeNode* root){
         if(!root){
             return;
         }
-        hm[root->val]++;
-        dfs(hm,root->left);
-        dfs(hm,root->right);
+        inorder(root->left);
+
+        if(first|| root->val!=prev){
+            first=false;
+            curCount=1;
+        }else{
+            curCount++;
+        }
+
+        if(curCount>maxCount){
+            maxCount=curCount;
+            res.clear();
+            res.push_back(root->val);
+        }else if(curCount == maxCount){
+            res.push_back(root->val);
+        }
+
+        prev = root->val;
+
+        inorder(root->right);
     }
     vector<int> findMode(TreeNode* root) {
-        unordered_map<int,int> hm;
-        dfs(hm,root);
-        vector<int> res;
-        int maxi=INT_MIN;
-        for(auto it : hm){
-            if(it.second>maxi){
-                maxi = it.second;
-            }
-        }
-        for(auto it : hm){
-            if(maxi == it.second){
-                res.push_back(it.first);
-            }
-        }
+        inorder(root);
         return res;
     }
 };
