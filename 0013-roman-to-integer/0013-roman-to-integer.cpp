@@ -1,26 +1,30 @@
 class Solution {
 public:
-    int romanToInt(string s) {
-        unordered_map<char,int> hm;
-        hm['I'] = 1;
-        hm['V'] = 5;
-        hm['X'] = 10;
-        hm['L'] = 50;
-        hm['C'] = 100;
-        hm['D'] = 500;
-        hm['M'] = 1000;
-        int res=0;
-        int i=0;
-        while(i<s.length()){
-            if(hm[s[i]]<hm[s[i+1]]){
-                res+=(hm[s[i+1]]-hm[s[i]]);
-                i++;
-            }else{
-                res+=hm[s[i]];
-            }
-            i++;
-            cout<<res<<endl;
+    int value(char c) {
+        switch(c) {
+            case 'I': return 1;
+            case 'V': return 5;
+            case 'X': return 10;
+            case 'L': return 50;
+            case 'C': return 100;
+            case 'D': return 500;
+            case 'M': return 1000;
         }
+        return 0;
+    }
+
+    int romanToInt(string s) {
+        int res = 0;
+
+        for (int i = 0; i < s.length(); i++) {
+            int curr = value(s[i]);
+
+            if (i + 1 < s.length() && curr < value(s[i + 1]))
+                res -= curr;
+            else
+                res += curr;
+        }
+
         return res;
     }
 };
