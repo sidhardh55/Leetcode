@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sidhardh55/Leetcode/tree/master/0050-powx-n) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sidhardh55/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sidhardh55/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1518-water-bottles](https://github.com/sidhardh55/Leetcode/tree/master/1518-water-bottles) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sidhardh55/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sidhardh55/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sidhardh55/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -262,5 +263,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1518-water-bottles](https://github.com/sidhardh55/Leetcode/tree/master/1518-water-bottles) |
 | [3498-reverse-degree-of-a-string](https://github.com/sidhardh55/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
