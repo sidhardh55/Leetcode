@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidhardh55/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sidhardh55/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sidhardh55/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sidhardh55/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/sidhardh55/Leetcode/tree/master/3731-find-missing-elements) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sidhardh55/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Math
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/sidhardh55/Leetcode/tree/master/1518-water-bottles) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sidhardh55/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sidhardh55/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sidhardh55/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sidhardh55/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3870-count-commas-in-range](https://github.com/sidhardh55/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sidhardh55/Leetcode/tree/master/3871-count-commas-in-range-ii) |
