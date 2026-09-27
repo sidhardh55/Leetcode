@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sidhardh55/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sidhardh55/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidhardh55/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sidhardh55/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sidhardh55/Leetcode/tree/master/0013-roman-to-integer) |
 | [0187-repeated-dna-sequences](https://github.com/sidhardh55/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0257-binary-tree-paths](https://github.com/sidhardh55/Leetcode/tree/master/0257-binary-tree-paths) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sidhardh55/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sidhardh55/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sidhardh55/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/sidhardh55/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1518-water-bottles](https://github.com/sidhardh55/Leetcode/tree/master/1518-water-bottles) |
 | [3498-reverse-degree-of-a-string](https://github.com/sidhardh55/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sidhardh55/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
