@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sidhardh55/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sidhardh55/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sidhardh55/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0856-score-of-parentheses](https://github.com/sidhardh55/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sidhardh55/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sidhardh55/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Tree
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sidhardh55/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/sidhardh55/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/sidhardh55/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0856-score-of-parentheses](https://github.com/sidhardh55/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sidhardh55/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sidhardh55/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sidhardh55/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/sidhardh55/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sidhardh55/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Design
 |  |
